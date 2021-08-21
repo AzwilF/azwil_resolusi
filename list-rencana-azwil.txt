@@ -1,5 +1,7 @@
 LIST RENCANA AZWIL
 
 - Membuat sebuah aplikasi
+  * membuat aplikasi perpustakaan
+  * membuat sebuah game
 - Belajar program
 - Belajar design
